@@ -19,7 +19,7 @@ all models constructed during the evaluation process as well as the final model 
 (please see the comments on each file for more information)
 
 -	To run the evaluation on the UNB dataset:
-			python IDS_model.py
+			py IDS_model.py
 
 -	To run the evaluation on the real traffic of our network:
-			python realTraffic.py
+			py realTraffic.py
